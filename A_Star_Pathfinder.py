@@ -233,4 +233,4 @@ while run:
             print(path) #prints the path list (purple spots)
 
 
-    pygame.display.update() #updates the screen(window) everytime the loop run
+    pygame.display.update() #updates the screen(window) everytime the loop runs
