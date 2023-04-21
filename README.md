@@ -1,5 +1,4 @@
 # Python_Projects
-Python scripts using various python libraries and functions.
-I've currently added 3 projects, all of them are made by me from scratch.
-Feel free to use the codes. And please leave a comment.
-A_Star_Pathfinder is my recent project, where I have used pygame lib to make the project interactive using graphic display.
+Simple games using various python libraries and functions.
+I've added two .py scripts includes all the necessary functions. 
+You can refer the comments for more details and the algorithm.
